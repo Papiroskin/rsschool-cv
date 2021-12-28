@@ -1,11 +1,12 @@
-![Photo](https://ibb.co/rmmMx5W)
+![Photo](https://avatars.githubusercontent.com/u/94958012?v=4)
 
 Aleksei Zhiznevskij
 ===================
 
-**Age:** 24               **E-mail:** lexaprostotak97@gmail.com
-                          **Contact number:** +375(29)666-38-63
-                          **Discord:** Aleksei Zhiznevskij(@Papiroskin)
+**Age:** 24
+**E-mail:** lexaprostotak97@gmail.com
+**Contact number:** +375(29)666-38-63
+**Discord:** Aleksei Zhiznevskij(@Papiroskin)
 **Address:**Minsk
 
 
@@ -22,9 +23,9 @@ Priority goal in work I consider the fulfillment of the assigned tasks.*
 
 My skills
 ---------
-*HTML/CSS
-*JavaScript
-*Git and GitHub
+* HTML/CSS
+* JavaScript
+* Git and GitHub
 
 Experience in IT
 ----------------
@@ -33,6 +34,7 @@ Experience in IT
 English level
 -------------
 **A2**
+
 French level
 ------------
 **B1**

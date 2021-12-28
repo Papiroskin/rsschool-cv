@@ -3,7 +3,7 @@
 Aleksei Zhiznevskij
 ===================
 
-**Age:** 24               **E-mail:** lexa.prostotak@mail.ru
+**Age:** 24               **E-mail:** lexaprostotak97@gmail.com
                           **Contact number:** +375(29)666-38-63
                           **Discord:** Aleksei Zhiznevskij(@Papiroskin)
 **Address:**Minsk

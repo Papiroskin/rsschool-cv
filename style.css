@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Roboto';
+     src: url("assets/fonts/Roboto-Regular.ttf");
+   }
+body {
+    font-family: 'Roboto'
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+ }
+.nav-link {
+    text-decoration: none;
+    color:black;
+    padding: 0 20px;
+    line-height: 50px;
+    transition: color 0.5s;
+    font-size: 21px;
+}
+.nav-link:hover {
+    color: white;
+}
+ html {
+    scroll-behavior: smooth; 
+  }
+.header {
+    background-color: rgb(240, 209, 70);
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.section {
+    background-color: rgb(240, 196, 101);
+    width: 50%;
+}
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+    .footer-section {
+        width: 100%;
+      }
+  }
+  .contacts-list {
+    line-height: 50px;
+    font-size: 21px;
+    list-style: none;
+  }
+  .summary-text {
+      font-size: 19px;
+  }
+  .skills-list {
+      font-size: 19px;
+  }
+  .education-text {
+      font-size: 19px;
+  }
+  .projects-text {
+      font-size: 19px;
+  }
+  .code-text {
+      font-size: 19px;
+  }
+  .languages-text {
+      font-size: 19px;
+  }
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    width: 50%;
+    background-color: rgb(240, 209, 70);
+  }
+  #flex-footer {
+      display: flex;
+      font-size: 19px;
+  }
+  .flex-div {
+    align-items: center;
+  }
